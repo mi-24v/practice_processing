@@ -1,0 +1,3 @@
+
+random1
+random1.jar,core.jar,jogl-all.jar,gluegen-rt.jar,jogl-all-natives-windows-amd64.jar,gluegen-rt-natives-windows-amd64.jar

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.elingi2_android.elingi2_android { <init>(...); }
+

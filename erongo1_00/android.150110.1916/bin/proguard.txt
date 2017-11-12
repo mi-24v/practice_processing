@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.erongo1_00.erongo1_00 { <init>(...); }
+

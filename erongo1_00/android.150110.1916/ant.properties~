@@ -1,0 +1,5 @@
+application-package=processing.test.erongo1_00
+key.store=hoge.keystore //(‚Ö‚ÌƒpƒX)
+key.store.password=hogehoge
+key.alias=hoge
+key.alias.password=hugahuga

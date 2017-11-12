@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.fleischklopfer1_30.Fleischklopfer1_30 { <init>(...); }
+
